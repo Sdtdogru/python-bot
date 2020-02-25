@@ -6,7 +6,7 @@ import html5lib
 user_data = {
  'utf8': '✓',
  'login': 'murat896ytk@gmail.com',
- 'password' : 'akpeq8m2'
+ 'password' : 'sdfdsfds'
 }
 
 isue_data = {
